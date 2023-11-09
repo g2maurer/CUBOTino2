@@ -1,0 +1,17 @@
+### Module positions - created on 10/17/23 20:11:13 ###
+### Printed by Pcbnew version kicad (5.1.10)-1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val         Package                                             PosX       PosY       Rot  Side
+C2        100nF       C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      39.4000     6.0000  180.0000  bottom
+C4        100nF       C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       8.4000    18.6500  270.0000  bottom
+C3        10nF        C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      10.6000    32.2000  270.0000  top
+C5        2.2uF       C_1206_3216Metric_Pad1.33x1.80mm_HandSolder      13.2000    32.7000  270.0000  top
+D1        LED         LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    41.9500     8.5500    0.0000  top
+D2        LED         LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder    18.8000    32.8500   90.0000  top
+D3        LED         LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    26.3000    30.9000    0.0000  top
+R1        10k         R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      45.4500     6.1500  270.0000  top
+R2        330         R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      16.0000    33.4000  270.0000  top
+R3        10k         R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      30.2000    30.9000    0.0000  top
+U1        LP2985-3.3  SOT-23-5                                          7.4000    32.2000   90.0000  top
+## End
