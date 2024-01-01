@@ -8,4 +8,4 @@
  6. Photo DisplayMountScrews provides the part number for the screws used to mount the display. Screws were purchased from McMaster-Carr.
  7. The Bill of Materials (BOM) in found in the file PCB/CUBOTino2.csv
  8. The schematic is in the file PCB/CUBOTino2.pdf
- 9. See PCB/Parts.txt for part sourcing info.
+ 9. See file PCB/SMD Parts.txt for part sourcing info.
