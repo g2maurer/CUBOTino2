@@ -1,0 +1,18 @@
+I purchased the resistors, capacitors and LEDs on Amazon. They come as
+> assorted kits. Here are some Amazon links to what I purchased:
+>
+> Resistors:
+> https://www.amazon.com/gp/product/B09538ZBCR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
+> Capacitors:
+> https://www.amazon.com/gp/product/B06XD3K15S/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+> LEDs:
+> https://www.amazon.com/gp/product/B01CUGA8JO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
+> Note: these are for is 0805 size components.
+>
+> The two components that are 1206 size are C5 and D2 (2.2uF capacitor and
+> LED).
+> Here is the links to the 1206 size components:
+> LED:
+> https://www.amazon.com/gp/product/B01CUGAFEC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
+> Capacitor:
+> https://www.amazon.com/gp/product/B06XDHC93D/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
